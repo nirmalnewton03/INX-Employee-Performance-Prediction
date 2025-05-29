@@ -1,0 +1,11 @@
+The below packages should be installed before running the notebook,
+
+1. pandas  
+2. numpy  
+3. matplotlib  
+4. seaborn  
+5. scikit-learn  
+6. imbalanced-learn  
+7. yellowbrick  
+8. ydata-profiling
+9. scipy
